@@ -1,0 +1,39 @@
+{
+  "name": "BlackScroll",
+  "version": "0.0.1",
+  "description": "BlackScroll",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp vet",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturomc/blackscroll.git"
+  },
+  "keywords": [
+    "DnD",
+    "javascript",
+    "nerdo"
+  ],
+  "author": "arturomc <4rturo.m.c@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturomc/5ecs/issues"
+  },
+  "homepage": "https://github.com/arturomc/5ecs#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "mongoose": "^4.2.7",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.0.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}
