@@ -1,0 +1,30 @@
+{
+  "name": "5ecs",
+  "version": "0.0.1",
+  "description": "5th edition DnD character sheet and tools and stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp vet",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturomc/5ecs.git"
+  },
+  "keywords": [
+    "DnD",
+    "javascript",
+    "nerdo"
+  ],
+  "author": "arturomc <4rturo.m.c@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturomc/5ecs/issues"
+  },
+  "homepage": "https://github.com/arturomc/5ecs#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}

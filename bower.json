@@ -1,0 +1,25 @@
+{
+  "name": "5ecs",
+  "description": "5th edition DnD character sheet and tools and stuff",
+  "main": "server.js",
+  "authors": [
+    "arturomc <4rturo.m.c@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "DnD",
+    "javascript",
+    "nerdo"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/bower",
+    "test",
+    "tests"
+  ]
+}
